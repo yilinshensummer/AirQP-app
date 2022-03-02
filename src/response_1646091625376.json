@@ -1,0 +1,4212 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "license": "CC BY 4.0d",
+    "website": "https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/",
+    "page": 1,
+    "limit": 200,
+    "found": 44214293673
+  },
+  "results": [
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm10",
+      "value": 16.8,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm25",
+      "value": 14.6,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um010",
+      "value": 0.67,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm10",
+      "value": 16.8,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um010",
+      "value": 0.66,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm10",
+      "value": 16.8,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm25",
+      "value": 15.3,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm10",
+      "value": 17.8,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm25",
+      "value": 13.7,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm1",
+      "value": 6.3,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm1",
+      "value": 6.1,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm25",
+      "value": 15.4,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um010",
+      "value": 0.71,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm1",
+      "value": 6,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm10",
+      "value": 16.8,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um010",
+      "value": 0.7,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm25",
+      "value": 15.7,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm1",
+      "value": 6.3,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um010",
+      "value": 0.71,
+      "date": {
+        "utc": "2022-02-28T22:58:53+00:00",
+        "local": "2022-02-28T21:58:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:54:53+00:00",
+        "local": "2022-02-28T21:54:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:00:56+00:00",
+        "local": "2022-02-28T22:00:56-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "pm1",
+      "value": 6.1,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:56:53+00:00",
+        "local": "2022-02-28T21:56:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 277599,
+      "location": "ZZZ- East",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:02:53+00:00",
+        "local": "2022-02-28T22:02:53-01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 42.932125,
+        "longitude": -85.60236
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm25",
+      "value": 5.8,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm10",
+      "value": 6.7,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm25",
+      "value": 5.9,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um010",
+      "value": 0.28,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um010",
+      "value": 0.3,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm25",
+      "value": 5.6,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um010",
+      "value": 0.28,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um025",
+      "value": 0.02,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm10",
+      "value": 6,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm1",
+      "value": 4.2,
+      "date": {
+        "utc": "2022-02-28T22:57:00+00:00",
+        "local": "2022-02-28T14:57:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm10",
+      "value": 6.1,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm1",
+      "value": 4.1,
+      "date": {
+        "utc": "2022-02-28T23:03:00+00:00",
+        "local": "2022-02-28T15:03:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 230971,
+      "location": "Zsense",
+      "parameter": "pm1",
+      "value": 4.3,
+      "date": {
+        "utc": "2022-02-28T22:59:00+00:00",
+        "local": "2022-02-28T14:59:00-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.864986,
+        "longitude": -122.14543
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm1",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm25",
+      "value": 0.5,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm1",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um010",
+      "value": 0.04,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm10",
+      "value": 0.3,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm25",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm1",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um010",
+      "value": 0.04,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um010",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm10",
+      "value": 0.2,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm10",
+      "value": 0.6,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm25",
+      "value": 0.3,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm25",
+      "value": 0.1,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm1",
+      "value": 0.3,
+      "date": {
+        "utc": "2022-02-28T23:01:26+00:00",
+        "local": "2022-02-28T15:01:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm10",
+      "value": 0.4,
+      "date": {
+        "utc": "2022-02-28T22:57:26+00:00",
+        "local": "2022-02-28T14:57:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um010",
+      "value": 0.08,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm1",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm10",
+      "value": 0.3,
+      "date": {
+        "utc": "2022-02-28T22:55:26+00:00",
+        "local": "2022-02-28T14:55:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "pm25",
+      "value": 0.2,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:26+00:00",
+        "local": "2022-02-28T14:59:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69639,
+      "location": "zombieland",
+      "parameter": "um010",
+      "value": 0.05,
+      "date": {
+        "utc": "2022-02-28T23:03:26+00:00",
+        "local": "2022-02-28T15:03:26-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 36.158085,
+        "longitude": -115.36277
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm1",
+      "value": 1.6,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um010",
+      "value": 0.18,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm10",
+      "value": 2.8,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um010",
+      "value": 0.19,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm1",
+      "value": 2,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm25",
+      "value": 3,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um010",
+      "value": 0.13,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm10",
+      "value": 3.2,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um010",
+      "value": 0.13,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm1",
+      "value": 1.8,
+      "date": {
+        "utc": "2022-02-28T23:03:40+00:00",
+        "local": "2022-02-28T15:03:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm25",
+      "value": 3,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm1",
+      "value": 1.7,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm25",
+      "value": 2.8,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm10",
+      "value": 3.3,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm10",
+      "value": 3,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm25",
+      "value": 2.5,
+      "date": {
+        "utc": "2022-02-28T23:01:40+00:00",
+        "local": "2022-02-28T15:01:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm25",
+      "value": 2.8,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm1",
+      "value": 1.9,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um010",
+      "value": 0.19,
+      "date": {
+        "utc": "2022-02-28T22:55:40+00:00",
+        "local": "2022-02-28T14:55:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "um025",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:40+00:00",
+        "local": "2022-02-28T14:57:40-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68996,
+      "location": "Zoe Zone",
+      "parameter": "pm10",
+      "value": 2.8,
+      "date": {
+        "utc": "2022-02-28T22:59:40+00:00",
+        "local": "2022-02-28T14:59:40-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.67725,
+        "longitude": -121.11613
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm25",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um010",
+      "value": 0.54,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm10",
+      "value": 9.4,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm1",
+      "value": 6.9,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um010",
+      "value": 0.45,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm10",
+      "value": 10,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm25",
+      "value": 8.7,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm10",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm1",
+      "value": 6.8,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm10",
+      "value": 9.7,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm25",
+      "value": 8.8,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm25",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm10",
+      "value": 10,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um025",
+      "value": 0.01,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um025",
+      "value": 0.02,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm1",
+      "value": 7,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm1",
+      "value": 6.7,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um010",
+      "value": 0.49,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um010",
+      "value": 0.52,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm25",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:56:43+00:00",
+        "local": "2022-02-28T14:56:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "pm1",
+      "value": 6.5,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:02:43+00:00",
+        "local": "2022-02-28T15:02:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:58:43+00:00",
+        "local": "2022-02-28T14:58:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um010",
+      "value": 0.5,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68022,
+      "location": "Zinn Drive",
+      "parameter": "um025",
+      "value": 0.02,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.82756,
+        "longitude": -122.20563
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um010",
+      "value": 0.6,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm10",
+      "value": 11.2,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm10",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm25",
+      "value": 9.3,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm25",
+      "value": 8.5,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm1",
+      "value": 5.7,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm25",
+      "value": 9.5,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um010",
+      "value": 0.55,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm25",
+      "value": 9.2,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm10",
+      "value": 9.8,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um010",
+      "value": 0.64,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm10",
+      "value": 10.4,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um010",
+      "value": 0.67,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm25",
+      "value": 8.9,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um025",
+      "value": 0.05,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um025",
+      "value": 0.04,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm1",
+      "value": 5.7,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm1",
+      "value": 6,
+      "date": {
+        "utc": "2022-02-28T23:00:43+00:00",
+        "local": "2022-02-28T15:00:43-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um010",
+      "value": 0.62,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm1",
+      "value": 5.5,
+      "date": {
+        "utc": "2022-02-28T22:58:42+00:00",
+        "local": "2022-02-28T14:58:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um025",
+      "value": 0.04,
+      "date": {
+        "utc": "2022-02-28T22:56:42+00:00",
+        "local": "2022-02-28T14:56:42-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm10",
+      "value": 10.5,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T22:54:43+00:00",
+        "local": "2022-02-28T14:54:43-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71035,
+      "location": "Zilker neighborhood",
+      "parameter": "pm1",
+      "value": 6,
+      "date": {
+        "utc": "2022-02-28T23:02:42+00:00",
+        "local": "2022-02-28T15:02:42-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.258938,
+        "longitude": -97.76475
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm10",
+      "value": 9.1,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm1",
+      "value": 5.2,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um010",
+      "value": 0.47,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm10",
+      "value": 9.8,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um010",
+      "value": 0.49,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm10",
+      "value": 9.6,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm1",
+      "value": 4.9,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm25",
+      "value": 8.9,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um010",
+      "value": 0.57,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm1",
+      "value": 5.6,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm1",
+      "value": 5.6,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um025",
+      "value": 0.06,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm25",
+      "value": 9,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um010",
+      "value": 0.57,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um025",
+      "value": 0.03,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm10",
+      "value": 9.4,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm25",
+      "value": 7.8,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm25",
+      "value": 7.8,
+      "date": {
+        "utc": "2022-02-28T22:55:28+00:00",
+        "local": "2022-02-28T16:55:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um025",
+      "value": 0.05,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm1",
+      "value": 6.1,
+      "date": {
+        "utc": "2022-02-28T22:59:28+00:00",
+        "local": "2022-02-28T16:59:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm10",
+      "value": 8.6,
+      "date": {
+        "utc": "2022-02-28T22:57:28+00:00",
+        "local": "2022-02-28T16:57:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "um010",
+      "value": 0.64,
+      "date": {
+        "utc": "2022-02-28T23:01:28+00:00",
+        "local": "2022-02-28T17:01:28-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71702,
+      "location": "Zilker #1",
+      "parameter": "pm25",
+      "value": 8.7,
+      "date": {
+        "utc": "2022-02-28T23:03:28+00:00",
+        "local": "2022-02-28T17:03:28-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.261005,
+        "longitude": -97.77081
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 62987,
+      "location": "Zhanger Household",
+      "parameter": "um010",
+      "value": 0.89,
+      "date": {
+        "utc": "2022-02-28T22:55:20+00:00",
+        "local": "2022-02-28T14:55:20-08:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": {
+        "latitude": 37.680096,
+        "longitude": -122.40311
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 62987,
+      "location": "Zhanger Household",
+      "parameter": "pm25",
+      "value": 14,
+      "date": {
+        "utc": "2022-02-28T22:59:20+00:00",
+        "local": "2022-02-28T14:59:20-08:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.680096,
+        "longitude": -122.40311
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": false,
+      "entity": "community",
+      "sensorType": "low-cost sensor"
+    }
+  ]
+}
