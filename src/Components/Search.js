@@ -3,15 +3,13 @@ import React,{useEffect, useRef, useState} from 'react';
 import{useMainContext} from '../Context/Context'
 
 function Search(props) {
-
     const {eventData, setSelectedEvent, setReMarkers } = useMainContext();
+    const searchBox = useRef();
+    const optionBox = useRef();
     //Match the data
     const [matchEvent, setMatchEvent] = useState(eventData);
     //Deal with dropdown
     const [storeSelection, setStoreSelection] = useState("All");
-
-    const searchBox = useRef();
-    const optionBox = useRef();
 
     // Filter eventData
     const filterEventData = eventData => {
@@ -27,19 +25,20 @@ function Search(props) {
         let eventMatch = [];
         let filterdEventData = filterEventData(eventData);
 
-        if (searchQuery.length > 0 && filterdEventData) {
+        if (searchQuery.length > 0 && eventData) {
             for (const event in eventData) {
-                let eventTitle = filterdEventData[event].name.toLowerCase();
+                let eventTitle = eventData[event].name.toLowerCase();
                 
                 if (eventTitle.includes(searchQuery)) {
-                    eventMatch.push(filterdEventData[event]);
+                    eventMatch.push(eventData[event]);
                 }
             
             }
 
             //If user type in somthing but it doesn't match
             if (eventMatch.length === 0) {
-                eventMatch = [{name: "No Results!",sensorType: "", entity: "", parameters: [{lastValue:""},{},{},{},{}]}]
+                console.log(eventMatch)
+                eventMatch = [{name: "No Results!",sensorType: "", entity: "", parameters: [{lastValue:""}]}]
             }
             setMatchEvent(eventMatch);
         }else{
@@ -79,8 +78,6 @@ function Search(props) {
                     }, 240)
                 }}
                 ref={searchBox} />
-
-                
 
             </section>
             <table className="search-table">
