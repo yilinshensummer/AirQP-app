@@ -161,7 +161,7 @@ function Map({center, eventData}) {
   return (
     <div className="map-container">
         <GoogleMapReact
-        bootstrapURLKeys={{key: 'AIzaSyDNFTSVFQ-dDSScJkcUzp5qhqcjT47RYcM'}}// should be hid in root somewhere
+        bootstrapURLKeys={{key: 'AIzaSyDNFTSVFQ-dDSScJkcUzp5qhqcjT47RYcM'}}// should be hid somewhere
         center={center}
         zoom={zoom}
         yesIWantToUseGoogleMapApiInternals

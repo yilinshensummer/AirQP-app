@@ -12,7 +12,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   //Event to render
   const [renderEvent, setRenderEvent] = useState([]);
-  const [limitNumber, setLimitNumber] = useState('');
+  const [limitNumber, setLimitNumber] = useState("");
  
   /*const onType = (e) => {
     if (e.key === 'Enter')
@@ -22,7 +22,7 @@ function App() {
   }*/
 
   useEffect(()=> {
-    const fetchEvents = async () => {
+    const fetchEvents = async (e) => {
       
       
       setLoading(true);
@@ -33,15 +33,8 @@ function App() {
       setEventData(results);
       setRenderEvent(results);
       setLoading(false);
-
-      if (limitNumber.length > 0){
-        res = await fetch(`https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/v2/locations?limit=200&page=1&offset=0&radius=1000&country_id=US&order_by=location&dumpRaw=false&limit=${limitNumber}`)
-        const { results } = await res.json()
-        console.log(limitNumber)
-        setEventData(results);
-        setRenderEvent(results);
-        setLoading(false);
-      } 
+      
+      
         
       
       //const res = await fetch(APIstring);
@@ -55,7 +48,35 @@ function App() {
     }
     fetchEvents();
 
-  },[limitNumber])
+  },[])
+
+    //let cancelToken;
+    const userLimit = async(e) => {
+      if (e.key === 'Enter'){
+        const limit = e.target.value
+        /*if (typeof cancelToken != typeof underfined) {
+          cancelToken.cancel("Canceling the previous req")
+        }*/
+        const res = await fetch(`https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/v2/locations?limit=${limit}&page=1&offset=0&radius=1000&country_id=US&order_by=location&dumpRaw=false`)
+        const { results } = await res.json()
+        console.log(limitNumber.length)
+        setEventData(results);
+        setRenderEvent(results);
+        setLoading(false);
+      }
+      
+
+    }
+  
+  /*if (limitNumber.length > 0){
+    //APIstring = 'https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/v2/locations?limit=200&page=1&offset=0&radius=1000&country_id=US&order_by=location&dumpRaw=false&&limit=' + limitNumber;
+    res = await fetch(`https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/v2/locations?limit=${limitNumber}&page=1&offset=0&radius=1000&country_id=US&order_by=location&dumpRaw=false`)
+    const { results } = await res.json()
+    console.log(limitNumber.length)
+    setEventData(results);
+    setRenderEvent(results);
+    setLoading(false);
+  }*/
 
   useEffect(() => {
     if (reRenderMarkers !== null){
@@ -70,11 +91,7 @@ function App() {
       <input
       type="text"
       placeholder="enter limit number"
-      onKeyDown={(e) => {
-        if (e.key === 'Enter'){
-        setLimitNumber(e.target.value);
-        }
-      }}>
+      onKeyDown={userLimit}>
       </input>
 
       </div>
