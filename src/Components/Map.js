@@ -9,6 +9,7 @@ import PieChart from "./PieChart";
 import {useMainContext}from '../Context/Context'
 
 
+
 function Map({center, eventData}) {
     const {selectedEvent} = useMainContext();
     const mapRef = useRef();
@@ -37,7 +38,7 @@ function Map({center, eventData}) {
     
       
     }));
-    console.log(measureInfo)
+    
     
 
     const {clusters, supercluster} = useSuperCluster({
@@ -110,8 +111,16 @@ function Map({center, eventData}) {
             'rgb(153, 102, 255)',
             'rgb(201, 203, 207)'
           ],
-          borderWidth: 1
-      }]
+          borderWidth: 3
+      }],
+      options: {
+        scale: {
+            pointLabels :{
+               fontStyle: "bold",
+               fontColor: "black"
+            }
+        }
+     }
            
       
         
@@ -146,10 +155,16 @@ function Map({center, eventData}) {
             borderColor: [
               'rgb(255, 99, 132)',
               'rgb(75, 192, 192)'],
-            borderWidth: 1
-            },
-          
-        ]
+            borderWidth: 3,
+            options: {
+              scale: {
+                  pointLabels :{
+                     fontStyle: "bold",
+                     fontColor: "black"
+                  }
+              }
+           }
+        }]
         
       })}
       />
